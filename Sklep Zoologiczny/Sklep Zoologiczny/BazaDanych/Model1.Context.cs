@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Sklep_Zoologiczny
+namespace Sklep_Zoologiczny.BazaDanych
 {
     using System;
     using System.Data.Entity;

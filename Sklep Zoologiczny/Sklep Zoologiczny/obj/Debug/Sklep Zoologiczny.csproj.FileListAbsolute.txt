@@ -51,3 +51,28 @@ C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\S
 C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.exe
 C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.pdb
 C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.exe.licenses
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_kategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny_MarkupCompile.lref
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_kategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_podkategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_producenta.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_produktu.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_kategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_podkatgorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_producenta.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_produktu.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_kategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_podkategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_producenta.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_produktu.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_podkategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_producenta.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_produktu.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_kategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_podkatgorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_producenta.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_produktu.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_kategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_podkategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_producenta.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_produktu.g.cs

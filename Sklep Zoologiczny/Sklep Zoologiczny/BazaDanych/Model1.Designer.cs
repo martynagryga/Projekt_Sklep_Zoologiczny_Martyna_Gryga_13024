@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\Model1.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\BazaDanych\Model1.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
