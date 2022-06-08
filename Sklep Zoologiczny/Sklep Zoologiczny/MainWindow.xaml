@@ -10,7 +10,7 @@
     Title="MainWindow" Height="800" Width="1000" WindowStyle="None">
     <Grid>
 
-        <dxr:RibbonControl RibbonStyle="Office2019" Height="153" ShowApplicationButton="False">
+        <dxr:RibbonControl RibbonStyle="Office2019" Height="153" ShowApplicationButton="False" >
             <dxr:RibbonDefaultPageCategory>
 
                 <dxr:RibbonPage x:Name="Produkty" Caption="Produkty">
@@ -78,13 +78,13 @@
         <dxdo:DockLayoutManager Margin="10,161,10,7">
             <dxdo:LayoutGroup Caption="LayoutRoot" >
                 <dxdo:LayoutGroup Orientation="Vertical" Margin="0,23,0,0">
-                    <dxdo:LayoutPanel Caption="Produkty" Margin="0,-23,0,0">
-                        <dxlc:LayoutControl>
-                            <dxg:GridControl x:Name="GridControlProdukty" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" CustomColumnDisplayText="GridControlProdukty_CustomColumnDisplayText" >
+                    <dxdo:LayoutPanel Caption="Produkty" Margin="0,-23,0,0" Background="WhiteSmoke">
+                        <dxlc:LayoutControl Background="#FF484848">
+                            <dxg:GridControl x:Name="GridControlProdukty" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" CustomColumnDisplayText="GridControlProdukty_CustomColumnDisplayText"  >
                                 <dxg:GridControl.View>
                                     <dxg:TableView/>
                                 </dxg:GridControl.View>
-                                <dxg:GridColumn Header="ID Produktu" FieldName="ID_Produktu" IsSmart="True"/>
+                                <dxg:GridColumn Header="ID Produktu" FieldName="ID_Produktu" IsSmart="True" />
                                 <dxg:GridColumn Header="Nazwa produktu" FieldName="Nazwa_produktu" IsSmart="True"/>
                                 <dxg:GridColumn Header="ID Kategorii" FieldName="ID_Kategorii" IsSmart="True"/>
                                 <dxg:GridColumn x:Name="KolumnaKategoria" Header="Kategoria" FieldName="Kategorie" IsSmart="True"/>
