@@ -109,6 +109,10 @@
     <Compile Include="BazaDanych\sysdiagrams.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Serwisy\KategoriaSerwis.cs" />
+    <Compile Include="Serwisy\PodkategoriaSerwis.cs" />
+    <Compile Include="Serwisy\ProducentSerwis.cs" />
+    <Compile Include="Serwisy\ProduktSerwis.cs" />
     <Compile Include="Widoki\Dodawanie_kategorii.xaml.cs">
       <DependentUpon>Dodawanie_kategorii.xaml</DependentUpon>
     </Compile>
