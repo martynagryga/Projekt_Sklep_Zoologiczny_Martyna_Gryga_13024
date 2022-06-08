@@ -65,9 +65,13 @@ namespace Sklep_Zoologiczny.Serwisy
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
-        public Podkategorie Find(int ID)
+        public Podkategorie Find(int? ID)
         {
-            return dbContext.Podkategorie.Find(ID);
+            if(ID != null)
+            {
+                return dbContext.Podkategorie.Find(ID);
+            }
+            return null;
         }
     }
 }

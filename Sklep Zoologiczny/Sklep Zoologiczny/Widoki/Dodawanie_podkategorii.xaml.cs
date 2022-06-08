@@ -1,4 +1,6 @@
 ﻿using DevExpress.Xpf.Core;
+using Sklep_Zoologiczny.BazaDanych;
+using Sklep_Zoologiczny.Serwisy;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,14 +22,26 @@ namespace Sklep_Zoologiczny.Widoki
     /// </summary>
     public partial class Dodawanie_podkategorii : ThemedWindow
     {
+        PodkategoriaSerwis podkategoriaSerwis = new PodkategoriaSerwis();
+
         public Dodawanie_podkategorii()
         {
             InitializeComponent();
         }
 
+        private void Save()
+        {
+            Podkategorie podkategoria = new Podkategorie()
+            {
+                Nazwa_podkategorii = Wpisz_nazwe_podkategorii.Text,
+            };
+            podkategoriaSerwis.Add(podkategoria);
+        }
+
         private void Zapisz_nazwe_podkategorii_Click(object sender, RoutedEventArgs e)
         {
-
+            Save();
+            this.Close();
         }
     }
 }
