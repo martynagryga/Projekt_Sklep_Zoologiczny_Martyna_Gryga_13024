@@ -9,7 +9,7 @@
     <Grid>
         <dx:SimpleButton x:Name="Zapisz_usuwanie_producenta" Content="Zapisz" HorizontalAlignment="Center" Height="31" Margin="0,103,0,0" VerticalAlignment="Top" Width="106" Glyph="{dx:DXImage SvgImages/XAF/Action_SaveScript.svg}" Click="Zapisz_usuwanie_producenta_Click"/>
         <Label Content="Usuń producenta:" HorizontalAlignment="Left" Margin="30,32,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
-        <ComboBox x:Name="ComboBox_Producent" HorizontalAlignment="Left" Margin="166,32,0,0" VerticalAlignment="Top" Width="251"/>
+        <ComboBox x:Name="ComboBox_Producent" HorizontalAlignment="Left" Margin="166,32,0,0" VerticalAlignment="Top" Width="251" SelectedItem="{Binding ID_Producenta}" DisplayMemberPath="Nazwa_producenta"/>
 
     </Grid>
 </dx:ThemedWindow>

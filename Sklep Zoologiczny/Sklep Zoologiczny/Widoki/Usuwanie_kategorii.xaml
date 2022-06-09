@@ -9,7 +9,7 @@
     <Grid>
         <Label Content="Usuń kategorię:" HorizontalAlignment="Left" Margin="24,41,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <dx:SimpleButton x:Name="Zapisz_usuwanie_kategorii" Content="Zapisz" HorizontalAlignment="Center" Height="31" Margin="0,104,0,0" VerticalAlignment="Top" Width="118" Glyph="{dx:DXImage SvgImages/XAF/Action_SaveScript.svg}" Click="Zapisz_usuwanie_kategorii_Click"/>
-        <ComboBox x:Name="ComboBox_Kategoria" HorizontalAlignment="Left" Margin="142,41,0,0" VerticalAlignment="Top" Width="257"/>
+        <ComboBox x:Name="ComboBox_Kategoria" HorizontalAlignment="Left" Margin="142,41,0,0" VerticalAlignment="Top" Width="257" SelectedItem="{Binding ID_Kategorii}" DisplayMemberPath="Nazwa_kategorii"/>
 
     </Grid>
 </dx:ThemedWindow>

@@ -19,9 +19,9 @@
         <Label Content="Kategoria produktu:" HorizontalAlignment="Left" Margin="3,74,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="1" Height="22" Width="114" Grid.ColumnSpan="2"/>
         <Label Content="Podkategoria produktu:" HorizontalAlignment="Left" Margin="0,115,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="2" Height="22" Width="135"/>
         <Label Content="Producent produktu:" HorizontalAlignment="Left" Margin="0,153,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="2" Height="22" Width="118"/>
-        <ComboBox x:Name="ComboBox_wpisz_nazwe_kategorii" HorizontalAlignment="Left" Margin="130,74,0,0" VerticalAlignment="Top" Width="234" RenderTransformOrigin="-0.129,-0.44" Grid.Column="2" Height="22"/>
-        <ComboBox x:Name="ComboBox_wpisz_nazwe_podkategorii" HorizontalAlignment="Left" Margin="146,115,0,0" VerticalAlignment="Top" Width="218" Grid.Column="2" Height="22"/>
-        <ComboBox x:Name="ComboBox_wpisz_nazwe_producenta" HorizontalAlignment="Left" Margin="146,153,0,0" VerticalAlignment="Top" Width="218" Grid.Column="2" Height="22"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_kategorii" HorizontalAlignment="Left" Margin="130,74,0,0" VerticalAlignment="Top" Width="234" RenderTransformOrigin="-0.129,-0.44" Grid.Column="2" Height="22" SelectedItem="{Binding ID_Kategorii}" DisplayMemberPath="Nazwa_kategorii"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_podkategorii" HorizontalAlignment="Left" Margin="146,115,0,0" VerticalAlignment="Top" Width="218" Grid.Column="2" Height="22" SelectedItem="{Binding ID_Podkategorii}" DisplayMemberPath="Nazwa_podkategorii"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_producenta" HorizontalAlignment="Left" Margin="146,153,0,0" VerticalAlignment="Top" Width="218" Grid.Column="2" Height="22" SelectedItem="{Binding ID_Producenta}" DisplayMemberPath="Nazwa_producenta"/>
         <dx:SimpleButton x:Name="Zapisz_dodawanie_produktu" Grid.Column="2" Content="Zapisz" HorizontalAlignment="Center" Height="72" Margin="0,270,0,0" VerticalAlignment="Top" Width="164" Glyph="{dx:DXImage SvgImages/XAF/Action_SaveScript.svg}" Click="Zapisz_dodawanie_produktu_Click"/>
 
     </Grid>
