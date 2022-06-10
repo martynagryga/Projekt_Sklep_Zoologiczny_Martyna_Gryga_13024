@@ -88,12 +88,11 @@
                                 <dxg:GridColumn Header="Nazwa produktu" FieldName="Nazwa_produktu" IsSmart="True"/>
                                 <dxg:GridColumn Header="ID Kategorii" FieldName="ID_Kategorii" IsSmart="True"/>
                                 <dxg:GridColumn x:Name="KolumnaKategoria" Header="Kategoria" FieldName="Kategorie" IsSmart="True"/>
-
-                                <dxg:GridColumn Header="ID Podkategorii" FieldName="Podkategorie" IsSmart="True"/>
+                                <dxg:GridColumn Header="ID Podkategorii" FieldName="ID_Podkategorii" IsSmart="True"/>
                                 <dxg:GridColumn x:Name="KolumnaPodkategoria" Header="Podkategoria" FieldName="Podkategorie" IsSmart="True"/>
                                 <dxg:GridColumn Header="ID Producenta" FieldName="ID_Producenta" IsSmart="True"/>
                                 <dxg:GridColumn x:Name="KolumnaProducent" Header="Producent" FieldName="Producenci" IsSmart="True"/>
-                                <dxg:GridColumn Header="Cena" FieldName="cena" IsSmart="True"/>
+                                
                             </dxg:GridControl>
 
                         </dxlc:LayoutControl>

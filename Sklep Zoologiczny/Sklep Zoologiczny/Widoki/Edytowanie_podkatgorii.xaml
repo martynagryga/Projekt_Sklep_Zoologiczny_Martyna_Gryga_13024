@@ -7,7 +7,7 @@
     >
 
     <Grid>
-        <ComboBox x:Name="ComboBox_wybierz_podkategorie" HorizontalAlignment="Left" Margin="178,30,0,0" VerticalAlignment="Top" Width="225" SelectedItem="{Binding ID_Podkategorii}" DisplayMemberPath="Nazwa_podkategorii"/>
+        <ComboBox x:Name="ComboBox_wybierz_podkategorie" HorizontalAlignment="Left" Margin="178,30,0,0" VerticalAlignment="Top" Width="225" SelectedItem="{Binding ID_Podkategorii}" DisplayMemberPath="Nazwa_podkategorii" SelectionChanged="ComboBox_wybierz_podkategorie_SelectionChanged"/>
         <Label Content="Wybierz podkategorie:" HorizontalAlignment="Left" Margin="23,30,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <Label Content="Nowa nazwa podkategorii:" HorizontalAlignment="Left" Margin="23,81,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <TextBox x:Name="Wpisz_nowa_nazwe_podkategorii" HorizontalAlignment="Left" Margin="207,81,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="257"/>

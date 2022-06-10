@@ -11,7 +11,7 @@
         <Label Content="Wybierz kategorię:" HorizontalAlignment="Left" Margin="25,37,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <Label Content="Nowa nazwa kategorii:" HorizontalAlignment="Left" Margin="25,79,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <TextBox x:Name="Wpisz_nowa_nazwe_kategorii" HorizontalAlignment="Left" Margin="172,79,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="303"/>
-        <ComboBox x:Name="ComboBox_wybierz_kategorie" HorizontalAlignment="Left" Margin="160,37,0,0" VerticalAlignment="Top" Width="221" SelectedItem="{Binding ID_Kategorii}" DisplayMemberPath="Nazwa_kategorii"/>
+        <ComboBox x:Name="ComboBox_wybierz_kategorie" HorizontalAlignment="Left" Margin="160,37,0,0" VerticalAlignment="Top" Width="221" SelectedItem="{Binding ID_Kategorii}" DisplayMemberPath="Nazwa_kategorii" SelectionChanged="ComboBox_wybierz_kategorie_SelectionChanged"/>
 
     </Grid>
 </dx:ThemedWindow>

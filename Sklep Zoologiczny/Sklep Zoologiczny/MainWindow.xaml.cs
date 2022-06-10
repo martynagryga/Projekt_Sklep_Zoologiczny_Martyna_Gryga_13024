@@ -159,9 +159,6 @@ namespace Sklep_Zoologiczny
             }
         }
 
-        /*private void GridControlProdukty_CustomColumnDisplayText(object sender, DevExpress.Xpf.Grid.CustomColumnDisplayTextEventArgs e)
-        {
-            
-        }*/
+        
     }
 }
